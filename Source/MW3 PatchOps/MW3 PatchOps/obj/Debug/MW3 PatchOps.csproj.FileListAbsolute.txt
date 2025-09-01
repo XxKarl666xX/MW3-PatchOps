@@ -1,0 +1,12 @@
+C:\Users\Bill\source\repos\MW3 PatchOps\MW3 PatchOps\bin\Debug\MW3 PatchOps.exe.config
+C:\Users\Bill\source\repos\MW3 PatchOps\MW3 PatchOps\bin\Debug\MW3 PatchOps.exe
+C:\Users\Bill\source\repos\MW3 PatchOps\MW3 PatchOps\bin\Debug\MW3 PatchOps.pdb
+C:\Users\Bill\source\repos\MW3 PatchOps\MW3 PatchOps\obj\Debug\MW3 PatchOps.csproj.AssemblyReference.cache
+C:\Users\Bill\source\repos\MW3 PatchOps\MW3 PatchOps\obj\Debug\MW3_PatchOps.Properties.Resources.resources
+C:\Users\Bill\source\repos\MW3 PatchOps\MW3 PatchOps\obj\Debug\MW3 PatchOps.csproj.GenerateResource.cache
+C:\Users\Bill\source\repos\MW3 PatchOps\MW3 PatchOps\obj\Debug\MW3 PatchOps.csproj.CoreCompileInputs.cache
+C:\Users\Bill\source\repos\MW3 PatchOps\MW3 PatchOps\obj\Debug\MW3 PatchOps.exe
+C:\Users\Bill\source\repos\MW3 PatchOps\MW3 PatchOps\obj\Debug\MW3 PatchOps.pdb
+C:\Users\Bill\source\repos\MW3 PatchOps\MW3 PatchOps\obj\Debug\MW3_PatchOps.Form1.resources
+C:\Users\Bill\source\repos\MW3 PatchOps\MW3 PatchOps\bin\Debug\XRPC.dll
+C:\Users\Bill\source\repos\MW3 PatchOps\MW3 PatchOps\obj\Debug\MW3 PatchOps.csproj.CopyComplete

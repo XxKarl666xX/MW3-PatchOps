@@ -1,0 +1,11 @@
+C:\Users\Bill\source\repos\MW3 PatchOps\MW3 PatchOps\bin\Release\MW3 PatchOps.exe.config
+C:\Users\Bill\source\repos\MW3 PatchOps\MW3 PatchOps\bin\Release\MW3 PatchOps.exe
+C:\Users\Bill\source\repos\MW3 PatchOps\MW3 PatchOps\bin\Release\MW3 PatchOps.pdb
+C:\Users\Bill\source\repos\MW3 PatchOps\MW3 PatchOps\bin\Release\XRPC.dll
+C:\Users\Bill\source\repos\MW3 PatchOps\MW3 PatchOps\obj\Release\MW3_PatchOps.Form1.resources
+C:\Users\Bill\source\repos\MW3 PatchOps\MW3 PatchOps\obj\Release\MW3_PatchOps.Properties.Resources.resources
+C:\Users\Bill\source\repos\MW3 PatchOps\MW3 PatchOps\obj\Release\MW3 PatchOps.csproj.GenerateResource.cache
+C:\Users\Bill\source\repos\MW3 PatchOps\MW3 PatchOps\obj\Release\MW3 PatchOps.csproj.CoreCompileInputs.cache
+C:\Users\Bill\source\repos\MW3 PatchOps\MW3 PatchOps\obj\Release\MW3 PatchOps.csproj.CopyComplete
+C:\Users\Bill\source\repos\MW3 PatchOps\MW3 PatchOps\obj\Release\MW3 PatchOps.exe
+C:\Users\Bill\source\repos\MW3 PatchOps\MW3 PatchOps\obj\Release\MW3 PatchOps.pdb
